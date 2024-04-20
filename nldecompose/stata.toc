@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p nldecompose Blinder Oaxaca decomposition for linear and nonlinear models Use nldecompose With STATA 18
