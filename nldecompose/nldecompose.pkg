@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'nldecompose': Blinder Oaxaca decomposition for linear and nonlinear models Use nldecompose With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f nldecompose.ado
+f nldecompose.hlp
