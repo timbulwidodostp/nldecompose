@@ -1,6 +1,7 @@
 # nldecompose
 Blinder Oaxaca decomposition for linear and nonlinear models Use nldecompose With STATA 18
 
+https://www.youtube.com/watch?v=rJTRv5IAXG8
 
 Olah Data Semarang
 
